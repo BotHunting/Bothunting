@@ -70,22 +70,44 @@ motto    : "Koding with integrity, no shortcuts! 💪"
 ## 🌟 Featured Projects
 
 <div align="center">
-  <p>
-    <a href="https://github.com/BotHunting/sim_dishub">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=sim_dishub&theme=tokyonight" alt="SIM Dishub"/>
-    </a>
-    <a href="https://github.com/BotHunting/cctv">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=cctv&theme=tokyonight" alt="CCTV System"/>
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/BotHunting/hrm">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=hrm&theme=tokyonight" alt="HRM System"/>
-    </a>
-    <a href="https://github.com/BotHunting/Aplikasi-Hotel">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=Aplikasi-Hotel&theme=tokyonight" alt="Hotel System"/>
-    </a>
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/BotHunting/sim_dishub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=sim_dishub&theme=tokyonight&border_color=30363d" alt="SIM Dishub"/>
+          <br>
+          <sup><strong>🚦 Transportation Management System</strong></sup>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/BotHunting/cctv">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=cctv&theme=tokyonight&border_color=30363d" alt="CCTV System"/>
+          <br>
+          <sup><strong>📹 Surveillance System</strong></sup>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/BotHunting/hrm">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=hrm&theme=tokyonight&border_color=30363d" alt="HRM System"/>
+          <br>
+          <sup><strong>👥 Human Resource Management</strong></sup>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/BotHunting/Aplikasi-Hotel">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BotHunting&repo=Aplikasi-Hotel&theme=tokyonight&border_color=30363d" alt="Hotel System"/>
+          <br>
+          <sup><strong>🏨 Hotel Management System</strong></sup>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <sup>
+    <em>💡 Click on any project card to learn more!</em>
+  </sup>
 </div>
 
 ---
