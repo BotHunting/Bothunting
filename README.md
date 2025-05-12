@@ -21,15 +21,16 @@ motto    : "Koding with integrity, no shortcuts! 💪"
 ```
 
 <details>
-<summary><b>🔍 More About Me</b></summary>
+<summary><b>🔍 Fun fact dan Cerita Kuliah</b></summary>
 
 <div align="left">
 
 🎯 **Currently diving deep into Information Systems:**
 
-Aku lagi serius ngulik sistem informasi—terutama yang nyambung sama dunia transportasi dan pengujian kendaraan bermotor.  
-Di GitHub ini, kamu bakal nemuin proyek-proyek yang aku kembangin sendiri dengan sentuhan _real-world problem solving_ (yes, bukan cuma tugas kampus doang 👀).
+Aku lagi dalemin Sistem Informasi, sambil tetap aktif ngembangin aplikasi buat bantu dunia transportasi—terutama pengujian kendaraan.
 
+Proyek-proyekku kebanyakan lahir dari problem nyata, bukan sekadar tugas kampus. Semangatnya? Aplikasi harus **bermanfaat, jujur, dan orisinal.** Gak suka nyontek, suka ngulik.
+Fokusku:
 <ul>
   <li>🚦 <b>Transportation Systems</b></li>
   <li>🔧 <b>Vehicle Inspection Technologies</b></li>
