@@ -23,13 +23,23 @@ motto    : "Koding with integrity, no shortcuts! 💪"
 <details>
 <summary><b>🔍 More About Me</b></summary>
 
-> 🎯 Currently diving deep into Information Systems:
-> - 🚦 Transportation Systems
-> - 🔧 Vehicle Inspection Technologies
-> - 💡 Real-world Problem Solving
->
-> **Mission**: Building applications that are **useful**, **honest**, and **original**!
+<div align="left">
 
+🎯 **Currently diving deep into Information Systems:**
+
+Aku lagi serius ngulik sistem informasi—terutama yang nyambung sama dunia transportasi dan pengujian kendaraan bermotor.  
+Di GitHub ini, kamu bakal nemuin proyek-proyek yang aku kembangin sendiri dengan sentuhan _real-world problem solving_ (yes, bukan cuma tugas kampus doang 👀).
+
+<ul>
+  <li>🚦 <b>Transportation Systems</b></li>
+  <li>🔧 <b>Vehicle Inspection Technologies</b></li>
+  <li>💡 <b>Real-world Problem Solving</b></li>
+</ul>
+
+✨ <b>Mission:</b>  
+<em>Membangun aplikasi yang <b>useful</b>, <b>honest</b>, dan <b>original</b>!</em>
+
+</div>
 </details>
   </div>
   <div style="flex: 0 0 300px; margin-left: 20px;">
